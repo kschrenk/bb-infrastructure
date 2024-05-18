@@ -1,0 +1,6 @@
+{
+  "port": 4000,
+  "buildPath": "/Users/kschrenk/Projects/bb-monorepo/client",
+  "clientName": "client-production",
+  "logDir": "/var/log/build-hook"
+}
