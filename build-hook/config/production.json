@@ -1,4 +1,4 @@
 {
   "port": 4000,
-  "buildPath": "/var/www/client-production"
+  "buildPath": "/var/www/bb-frontend"
 }
